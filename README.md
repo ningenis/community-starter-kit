@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Probot App for learning about community starter kit
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Generate Request for Learning
+- Automate Learning Task
 
 ## Getting started
 
